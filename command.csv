@@ -1,0 +1,4 @@
+ShowTables,Show Tables,
+ShowTutor,select * from tutor,
+ShowStudent, select * from student,
+ShowClass, select * from class,
